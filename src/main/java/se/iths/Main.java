@@ -9,7 +9,7 @@ public class Main {
 //        System.out.println("5 * 2 = " + Calculator.multiply(5,2));
 //        System.out.println("21/3 = " + Calculator.divide(21,3));
 //
-//        System.out.println("Makes word into uppercase = " + TextProcessor.upperCase("word"));
+//        System.out.println("Makes word into uppercase = " + TextProcessor.upperCase(""));
 //        System.out.println("Makes WORD into lowercase = " + TextProcessor.lowerCase("WORD"));
 //        System.out.println("Makes word reversed = " + TextProcessor.reverseWord("word"));
 

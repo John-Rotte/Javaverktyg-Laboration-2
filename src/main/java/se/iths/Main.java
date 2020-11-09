@@ -13,7 +13,7 @@ public class Main {
 //        System.out.println("Makes WORD into lowercase = " + TextProcessor.lowerCase("WORD"));
 //        System.out.println("Makes word reversed = " + TextProcessor.reverseWord("word"));
 
-
+//        System.out.println(TextProcessor.upperCase("word1"));
 
     }
 }

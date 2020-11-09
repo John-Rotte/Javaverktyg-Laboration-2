@@ -16,4 +16,9 @@ public class TextProcessor {
         wordSlot.reverse();
         return wordSlot.toString();
     }
+    //Returns true if word is not and empty string
+    public static boolean wordNotEmptyString(String word) {
+        return !word.equals("");
+
+    }
 }
